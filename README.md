@@ -1,2 +1,2 @@
 # Learning-C-part-1
-This contains the code to convert the temperature unit Celsius into Fahrenheit 
+This is my journey to learn C from Zero
